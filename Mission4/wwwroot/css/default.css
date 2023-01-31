@@ -1,0 +1,17 @@
+﻿/*Kitt Mori Mission 4*/
+
+body {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 20px 20px 80px 20px;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+label{
+    font-size: 15px;
+    color: dimgray;
+    width: 200px;
+    display: block;
+}
